@@ -12,4 +12,4 @@ This repository provides a comprehensive analysis of car sales data, covering da
 * **Hypothesis Testing:**  Formulates and tests hypotheses about the relationships between variables using appropriate statistical tests.
 * **Data Visualization:**  Creates informative visualizations to communicate the findings of the analysis effectively.
 
-The repository includes all the code (Python scripts and Jupyter Notebooks), the dataset (or a link to it), and a detailed README file explaining the project's goals, methodology, and key findings.
+The repository includes all the code (CarSalesAnalysis.ipynb), the dataset (Car_sales (1)_336060.csv), a detailed README file explaining the project's goals, methodology, and an Analysis file explaining key findings.
